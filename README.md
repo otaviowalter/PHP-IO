@@ -1,2 +1,3 @@
 # PHP-IO
-Estudando como utilizar e manipular streams em PHP. 
+Estudos sobre streams em PHP, com conceitos para manipular, utilizar, colocar filtros padrões e filtros criados.
+
