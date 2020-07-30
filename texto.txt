@@ -1,0 +1,42 @@
+Operacionais/Administrativas
+
+
+Todos curriculos por sistema, nenhum físico.
+
+[Operacional]:
+Kenoby>
+Carreiras>
+Agenda entrevistas via whatsapp(agora online)>
+Faz as entrevistas>
+(Caso aprovado)Canditado é entrevistado pelo gestor da área>
+(Caso aprovado)começa a documentação para iniciar a integração.
+
+
+[Administrativas]:
+Kenoby>
+Carreiras[Divulgam também no linkedin]>
+Agenda entrevistas via whatsapp(agora online)>
+Faz triagem de acordo com os requisitos>
+Encaminha resultado da triagem pro gestor da área afim>
+Gestor escolhe em quem ou quais está interessado>
+(Caso aprovado)Volta pro RH>
+Fazem as entrevistas>
+(Caso aprovado)Envia novamente pro Gestor>
+Faz analise de quem ele quer>
+(Caso aprovado)começa a documentação para iniciar a integração.
+
+Aprovado(s) começa a integração.
+
+Passa documentação necessária>
+Recebe documentação>
+Faz admissâo na Sênior>
+Faz pasta do colaborador(Documentos, E contrato assinado)>
+Colaborador recebe a info02(Socilitação de acessos para os sistemas) para preencher junto com o gestor para encaminhar para TI>
+Depois de assinado passa pra informática.
+
+Integração [Jaque]:
+Feito no Senai:
+
+Operacional fica uma semana no senai fazendo integração vendo os processos, sendo um dia integraçao segurança, ambulatorio, e RH. Restante processo produtivo.
+
+Administrativo um dia integraçao segurança, ambulatorio, e RH. Depois ja é liberado.

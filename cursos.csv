@@ -1,0 +1,45 @@
+"Estou escrevendo nesse arquivo!";Sim
+"Parece que não ta funfando";Sim
+"E agora?";Sim
+Operacionais/Administrativas;NÃ£o
+;NÃ£o
+;NÃ£o
+"Todos curriculos por sistema, nenhum físico.";NÃ£o
+;NÃ£o
+[Operacional]:;NÃ£o
+Kenoby>;NÃ£o
+Carreiras>;NÃ£o
+"Agenda entrevistas via whatsapp(agora online)>";NÃ£o
+"Faz as entrevistas>";NÃ£o
+"(Caso aprovado)Canditado é entrevistado pelo gestor da área>";NÃ£o
+"(Caso aprovado)começa a documentação para iniciar a integração.";NÃ£o
+;NÃ£o
+;NÃ£o
+[Administrativas]:;NÃ£o
+Kenoby>;NÃ£o
+"Carreiras[Divulgam também no linkedin]>";NÃ£o
+"Agenda entrevistas via whatsapp(agora online)>";NÃ£o
+"Faz triagem de acordo com os requisitos>";NÃ£o
+"Encaminha resultado da triagem pro gestor da área afim>";NÃ£o
+"Gestor escolhe em quem ou quais está interessado>";NÃ£o
+"(Caso aprovado)Volta pro RH>";NÃ£o
+"Fazem as entrevistas>";NÃ£o
+"(Caso aprovado)Envia novamente pro Gestor>";NÃ£o
+"Faz analise de quem ele quer>";NÃ£o
+"(Caso aprovado)começa a documentação para iniciar a integração.";NÃ£o
+;NÃ£o
+"Aprovado(s) começa a integração.";NÃ£o
+;NÃ£o
+"Passa documentação necessária>";NÃ£o
+"Recebe documentação>";NÃ£o
+"Faz admissâo na Sênior>";NÃ£o
+"Faz pasta do colaborador(Documentos, E contrato assinado)>";NÃ£o
+"Colaborador recebe a info02(Socilitação de acessos para os sistemas) para preencher junto com o gestor para encaminhar para TI>";NÃ£o
+"Depois de assinado passa pra informática.";NÃ£o
+;NÃ£o
+"Integração [Jaque]:";NÃ£o
+"Feito no Senai:";NÃ£o
+;NÃ£o
+"Operacional fica uma semana no senai fazendo integração vendo os processos, sendo um dia integraçao segurança, ambulatorio, e RH. Restante processo produtivo.";NÃ£o
+;NÃ£o
+"Administrativo um dia integraçao segurança, ambulatorio, e RH. Depois ja é liberado.";NÃ£o
